@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#00e5a0"
+backgroundColor = "#0a0c10"
+secondaryBackgroundColor = "#12151c"
+textColor = "#e8ecf5"
+font = "monospace"
+
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
+
+[server]
+maxUploadSize = 200
+enableXsrfProtection = true
