@@ -1,3 +1,7 @@
+import streamlit as st
+import PyPDF2  # Add this line here
+
+# Your existing code follows...
 # Chief Broker Application
 
 class ChiefBroker:
