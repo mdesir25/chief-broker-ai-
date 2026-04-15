@@ -1,4 +1,6 @@
 streamlit
+PyPDF2
+streamlit
 
  yfinance
 
